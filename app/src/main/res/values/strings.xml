@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CougarTransit</string>
+    <string name="updated_just_now">Live · updated just now</string>
+    <string name="offline_since">Offline · showing data from %1$s</string>
+    <string name="tap_for_arrivals">Tap for arrivals</string>
+    <string name="loading">Loading arrivals…</string>
+    <string name="no_shuttles">No shuttles are heading to this stop right now.</string>
+    <string name="offline_no_live">Offline: live arrivals unavailable.</string>
+    <string name="stop_gone">This stop is no longer served.</string>
+    <string name="favorite">☆ Favorite</string>
+    <string name="unfavorite">★ Favorited</string>
+</resources>
